@@ -1,2 +1,2 @@
-# Kanishka-s_portfolio_1
+# Kanishka-s_portfolio
 My data Insight's project
