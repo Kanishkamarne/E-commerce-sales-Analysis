@@ -6,12 +6,12 @@ This data analysis project aims to provide insights into sales performance of an
 
 ### Data Sources
 
-Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detail information about each sales made by the company.
+Sales Data: The primary dataset used for this analysis is the "Amazon Sales Dataset(raw data).xlsx" file, containing detail information about each sales made by the company.
 
 ### Tools
 
-- Excel - Data Cleaning
-- PowerBI - Data Analysis & Creating Reports
+- Excel - Data extraction
+- PowerBI - Data cleaning , Data Analysis & Creating Reports
 
 ### Data Cleaning/Preparation
 
@@ -33,19 +33,15 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 The analysis results are summarized as follows:
 
-1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
-2. Product Category A is the best-performing category in terms of sales and revenue.
-3. Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
+1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the New year season.
+2. Product Category Health and beauty is the best-performing category in terms of sales and revenue.
+3. Profit should be increased by 20% to reach the target profit.
 
 ### Recommendations
 
 Based on the analysis, we recommend the following actions:
 
 - Invest in marketing and promotions during peak sales seasons to maximize revenue.
-- Focus on expanding and promoting products in Category A.
-- Implement a customer segmentation strategy to target high-LTV customers effectively.
+- Focus on expanding and promoting products in Category Electronics.
 
-### Limitations
-
-I had to remove all zero values from budget and revenue columns because they would have affected the accuracy of my conclusions from the analysis. There are still a few outliers even after the omissions but even then we can still see that there is a positive correlation between both budget and number of votes with revenue.
 
